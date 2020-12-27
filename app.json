@@ -1,0 +1,32 @@
+{
+  "pages": [
+    "page/four/index",
+    "page/three/index",
+    "page/two/index",
+    "page/one/index",
+    "page/medical/index",
+    "page/feedback/index",
+    "page/confirm/index",
+    "page/medirecord/index",
+    "page/Online Shopping/index",
+    "page/Real Estate/index",
+    "page/pack/index",
+    "page/company/index",
+    "page/Estate/index"
+
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "演示",
+    "navigationBarBackgroundColor": "#fbf9fe",
+    "backgroundColor": "#fbf9fe"
+  },
+  "networkTimeout": {
+    "request": 10000,
+    "connectSocket": 10000,
+    "uploadFile": 10000,
+    "downloadFile": 10000
+  },
+  "debug": true,
+  "sitemapLocation": "sitemap.json"
+}
